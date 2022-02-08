@@ -143,5 +143,3 @@ groupName=女教师
 [Group]
 groupName=翻墙视频
 黑丝,https://video.km7p7.xyz/uploads/2022-02-04/31435887/4c8644db3375b21be8263921469d9a58_wm.mp4
-[Group]
-groupName=视频
